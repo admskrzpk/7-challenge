@@ -9,4 +9,4 @@ Test discovered that each scenario returns element on index higher by one ex. ex
 ### Solution
 * First step: preparing tests
 * Second step: tests interpretation
-* 
+* **Not able to deliver solution**
